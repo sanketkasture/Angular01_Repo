@@ -1,0 +1,25 @@
+nav .logo{
+    width: 70px;
+}
+
+nav{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+.ctmnav li{
+    display: inline-block;
+}
+ul{
+    float: right;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li a{
+    color: #333;
+    text-decoration: none;
+    font-size:14px;
+}
